@@ -59,7 +59,7 @@ phn.send_keys(phnum)
 eml = driver.find_element(By.ID,'email')
 eml.send_keys(rndltr)
 
-psw = driver.find_element (By.XPATH, '/html/body/div/div[2]/div/div[3]/div[1]/section[2]/div/section/div/form/fieldset/div[6]/div[1]/input')
+psw = driver.find_element (By.ID,'sign-up-password')
 psw.send_keys(passw)
 
 btd = driver.find_element(By.ID,'birthday')

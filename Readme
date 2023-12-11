@@ -1,7 +1,10 @@
-Hi, this is my first project that I have worked on and that has a practical use for me.
-In this program, I used the framework Selenium which is used for web automation. 
-For this program you will need to make sure that you have pip installed the selenium module
-and the undected chrome webdriver. The practical use of this program is that Panera has an
-in app deal where you can get a free pastry with a purchase. I use this deal to grab a 
-bite here and there. What I don't like is the fact that I have to make a new account
-everytime. So I just decided to make an automated bot that makes accounts for me.
+Panera is a fast-food chain all around the United States. Panera has an in app deal 
+where you can get a free pastry with a purchase. I use this deal to grab a 
+bite here and there. This bot generates new accounts with the deal, using python
+and the selenium framework.
+
+<strong>Make sure to run the following commands</strong>
+
+pip3 install selenium
+
+pip3 install undetected-chromedriver selenium
