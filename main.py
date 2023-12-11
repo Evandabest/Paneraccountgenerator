@@ -42,8 +42,6 @@ lstnm = rndltr[1]
 #pass
 passw= 'freepanera1!'
 
-#PATH = 'C:\Program Files (x86)\chromedriver.exe'
-#driver = webdriver.Chrome(PATH)
 driver = uc.Chrome(options=options,)
 driver.get("https://www.panerabread.com/content/panerabread_com/en-us/mypanera/sign-up-with-mypanera.html?showSignUpForm=true&intcmp=link-g-mypanera-signup-OP1800C")
 
