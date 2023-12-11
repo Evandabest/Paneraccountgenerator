@@ -3,7 +3,7 @@ where you can get a free pastry with a purchase. I use this deal to grab a
 bite here and there. This bot generates new accounts with the deal, using python
 and the selenium framework.
 
-<strong>Make sure to run the following commands</strong>
+## Make sure to run the following commands
 
 pip3 install selenium
 
