@@ -23,26 +23,26 @@ You will have to do the following depending on your operating system.
 Steps for Mac: 
 
 1. Install Python
-'''
+```
 pip3 install python
-'''
+```
 
 2. Install Selenium
-'''
+```
 pip3 install selenium
-'''
+```
 
 Steps for Windows:
 
 1. Install Python
-'''
+```
 pip install python
-'''
+```
 
 2. Install Selenium
-'''
+```
 pip install selenium
-'''
+```
 
 Make sure you have the latest version of Chrome downloaded as well
 
