@@ -12,7 +12,39 @@ Panera bread has an in app deal that lets you get a free pastry with a purchase.
 * Prints out email for you to use!
 
 ## Video walkthrough
-# <a href = "https://www.youtube.com/watch?v=EabH_dSss0U" alt = "demo video" target = "_blank">
+* https://www.youtube.com/watch?v=EabH_dSss0U
 
-<a href="/video/EabH_dSss0U/edit" target="" aria-describedby="goog_1318234115">
+## How to set it up for yourself?
+
+Make sure you clone this repository and open the repo with your favorite code editor!
+
+You will have to do the following depending on your operating system.
+
+Steps for Mac: 
+
+1. Install Python
+***
+pip3 install python
+***
+
+2. Install Selenium
+***
+pip3 install selenium
+***
+
+Steps for Windows:
+
+1. Install Python
+***
+pip install python
+***
+
+2. Install Selenium
+***
+pip install selenium
+***
+
+Make sure you have the latest version of Chrome downloaded as well
+
+
 
