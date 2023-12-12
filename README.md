@@ -20,7 +20,7 @@ Make sure you clone this repository and open the repo with your favorite code ed
 
 You will have to do the following depending on your operating system.
 
-Steps for Mac: 
+Use pip for windows and pip3 for mac 
 
 1. Install Python
 ```
@@ -32,16 +32,9 @@ pip3 install python
 pip3 install selenium
 ```
 
-Steps for Windows:
-
-1. Install Python
+3. Install Undetected Chrome Webdriver
 ```
-pip install python
-```
-
-2. Install Selenium
-```
-pip install selenium
+pip3 install undetected_chromedriver
 ```
 
 Make sure you have the latest version of Chrome downloaded as well
