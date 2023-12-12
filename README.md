@@ -10,3 +10,6 @@ Panera bread has an in app deal that lets you get a free pastry with a purchase.
 * Uses first 2 letters as initials (names) for the account
 * Password is always 'freepanera1!'
 * Prints out email for you to use!
+
+## Video walkthrough
+ <a href = "https://www.youtube.com/watch?v=EabH_dSss0U" alt = "demo video">
